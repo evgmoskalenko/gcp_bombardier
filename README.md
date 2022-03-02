@@ -1,4 +1,10 @@
-# GCP bombardier
+# Load testing with clouds (GCP bombardier)
+
+Today, different sites are under heavy load. This project is aimed at determining the maximum load of your sites
+
+As examples in our project, the most top sites are provided that must cope with any load.
+
+It's not necessary for your project to use these sites in this document (this is just an example in this file - https://github.com/evgmoskalenko/gcp_bombardier/blob/master/user_data/user_data.sh)
 
 ## Install terraform
 
